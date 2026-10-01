@@ -2,10 +2,10 @@
 
 **Pause. Check. Then pay.**
 
-Paystill is a two-sided trust agent for informal marketplaces (WhatsApp, Instagram, Telegram) that checks for scams before money or goods change hands. Built for **Telegraph Hackathon Season II** (App / Agent track).
+Paystill is a two-sided trust agent for online and social commerce (WhatsApp, Instagram, Telegram, Facebook Marketplace and beyond) that checks for scams before money or goods change hands. Built for **Telegraph Hackathon Season II** (App / Agent track).
 
 ## The problem
-Much of Africa's buying and selling happens in DMs and group chats, and so do the scams: fake vendors, stolen product photos, too-good-to-be-true prices, edited "proof of payment" screenshots and fake delivery agents.
+Millions of people around the world buy and sell through DMs, group chats and online marketplaces, and so do the scammers: fake vendors, stolen product photos, too-good-to-be-true prices, edited "proof of payment" screenshots and fake delivery agents.
 
 ## What Paystill does
 - **For buyers:** check a vendor handle, listing, product photo or payment request before you pay.
