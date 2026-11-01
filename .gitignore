@@ -1,5 +1,9 @@
 node_modules/
+.next/
+.secrets/
 .env
-.env.*
-dist/
-.DS_Store
+.env.local
+data/
+evidence/*.json
+!evidence/.gitkeep
+.vercel
